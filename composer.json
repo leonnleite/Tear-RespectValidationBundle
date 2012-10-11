@@ -1,0 +1,25 @@
+{
+    "name": "tear/respect-validation-bundle",
+    "type": "symfony-bundle",
+    "description": "Integration of the respect/validation with Symfony2.1",
+    "keywords": ["respect","validation"],
+    "license":"MIT",
+    "homepage": "",
+    "authors": [
+        {
+            "name": "Leonn Leite",
+            "email": "leonnleite@gmail.com"
+        }
+    ],
+    "require":{
+        "php": ">=5.3.*",
+        "Respect/Validation": "0.4.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tear\\Respect\\ValidationBundle":""
+        }
+    },
+    "target-dir":"Tear/Respect/ValidationBundle"
+
+}

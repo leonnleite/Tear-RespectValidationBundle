@@ -1,0 +1,5 @@
+parameters:
+    respect_validation_validator.class: Tear\Respect\ValidationBundle\Services\Validator
+services:
+    respect.validator:
+        class: %respect_validation_validator.class%
