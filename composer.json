@@ -1,5 +1,5 @@
 {
-    "name": "tear\respect-validation-bundle",
+    "name": "tear/respect-validation-bundle",
     "type": "symfony-bundle",
     "description": "Integration of the respect/validation with Symfony2.1",
     "keywords": ["respect","validation","symfony2","bundle"],
