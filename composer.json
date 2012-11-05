@@ -13,7 +13,7 @@
     ],
     "require":{
         "php": ">=5.3.3",
-        "Respect/Validation": "dev-master"
+        "Respect/Validation": "0.4.*"
     },
     "autoload": {
         "psr-0": {
