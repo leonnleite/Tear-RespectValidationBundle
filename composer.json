@@ -3,6 +3,7 @@
     "type": "symfony-bundle",
     "description": "Integration of the respect/validation with Symfony2.1 or higher",
     "keywords": ["respect","validation","symfony2","bundle"],
+    "version": "0.1.0",
     "license":"MIT",
     "homepage": "",
     "authors": [
