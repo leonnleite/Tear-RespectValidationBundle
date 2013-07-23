@@ -9,9 +9,8 @@ Installation
 
 ##Bring in the vendor libraries
 
-This can be done in two different ways:
 
-**First Way** : Use Composer *(recommended)*
+Use Composer 
 
     // composer.json
     "require": {
@@ -21,12 +20,6 @@ This can be done in two different ways:
         // ...
     }
 
-
-**Second Way** : git command
-
-
-    git submodule add git://github.com/respect/validation.git vendor
-    git submodule add git://github.com/leonnleite/Tear-RespectValidationBundle.git vendor/tear/respect-validation-bundle/tear/respect/validation
 
 
 ##Add to your application kernel
