@@ -1,7 +1,7 @@
 {
     "name": "tear/respect-validation-bundle",
     "type": "symfony-bundle",
-    "description": "Integration of the respect/validation with Symfony2.1 +",
+    "description": "Integration of the respect/validation with Symfony2.1 or higher",
     "keywords": ["respect","validation","symfony2","bundle"],
     "license":"MIT",
     "homepage": "",
