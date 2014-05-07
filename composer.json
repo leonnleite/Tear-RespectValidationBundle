@@ -9,12 +9,12 @@
     "authors": [
         {
             "name": "Leonn Leite",
-            "email": "leonnleite@gmail.com"
+            "email": "leonn@teartecnologia.com"
         }
     ],
     "require":{
         "php": ">=5.3.3",
-        "Respect/Validation": "0.4.*"
+        "Respect/Validation": "0.5.*"
     },
     "autoload": {
         "psr-0": {
